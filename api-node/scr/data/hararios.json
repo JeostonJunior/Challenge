@@ -1,0 +1,27 @@
+[
+  {
+    "periodo": "manhã",
+    "horario": "9:00"
+  },
+  {
+    "periodo": "Manhã",
+    "horario": "10:00"
+  },
+  {
+    "periodo": "Manhã",
+    "horario": "11:00"
+  },
+  {
+    "periodo": "Tarde",
+    "horario": "13:00"
+  },
+  {
+    "periodo": "Tarde",
+    "horario": "14:00"
+  },
+
+  {
+    "periodo": "Tarde",
+    "horario": "15:00"
+  }
+]
